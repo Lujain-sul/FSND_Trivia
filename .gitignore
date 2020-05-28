@@ -1,0 +1,15 @@
+.vscode
+__pycache__
+/backend/__pycache__
+/backend/flaskr/__pycache__
+/frontend/node_modules
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
